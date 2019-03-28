@@ -1,6 +1,6 @@
-# ngx-seed
+# ngx-webapp-seed
 
-The ngx-seed is an seed project for Angular applications written in ES6 and/or TypeScript. This project comes complete with SASS compliation and minification, Webpack build tools for bundling the application JS into a single file, Grunt tasks for minification and compression of the final application JS bundles, npm for dependency management and build scripts, themeing of preinstalled design systems (Angular Material, Teradata Covalent), Internationalization (i18n), and JS unit testing and reporting with Karma, Jasmine, and Istanbul.
+The ngx-seed is a seed project for Angular applications written in ES6. This project comes complete with SASS compliation and minification, Webpack build tools for bundling the application JS into a single file, Grunt tasks, npm for dependency management and build scripts, themeing of preinstalled design systems (Angular Material, Teradata Covalent), Internationalization (i18n), and JS unit testing and reporting with Karma, Jasmine, and Istanbul.
 
 #### Developing
 Developers can perform code changes and automatically build this project using **npm** from the root directory via:
